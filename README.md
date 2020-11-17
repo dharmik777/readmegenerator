@@ -1,3 +1,8 @@
+WALKTHROUGH VIDEO LINK
+https://drive.google.com/file/d/1LSniS8nSN2Jj9GU_ITqMQfhTjmK4e9vZ/view?usp=sharing
+
+
+
 #TITLE readme generator
   table of contents:
 
