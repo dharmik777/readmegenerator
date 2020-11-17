@@ -33,7 +33,12 @@ const questions = [{
     name: "test",
     message: "Enter Test Instructions"
 },
-
+{
+    type: 'list',
+    message: 'Please select a license:',
+    name: 'license:',
+    choices: ['cli-cursor', 'color-name', 'onetime'],
+},
 {
     type: "input",
     name: "github",
